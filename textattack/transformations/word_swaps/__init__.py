@@ -17,6 +17,9 @@ from .word_swap_extend import WordSwapExtend
 from .word_swap_change_number import WordSwapChangeNumber
 from .word_swap_change_location import WordSwapChangeLocation
 from .word_swap_change_name import WordSwapChangeName
-
+from .word_swap_chinese_split_char import WordSwapChineseSplitChar
+from .word_swap_chinese_pinyin import WordSwapChinesePinyin
+from .word_swap_chinese_homophone import WordSwapChineseHomo
+from .word_swap_chinese_xingjin import WordSwapChineseXingjin
 # White box transformation
 from .word_swap_gradient_based import WordSwapGradientBased
